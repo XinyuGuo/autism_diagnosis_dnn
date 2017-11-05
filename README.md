@@ -21,6 +21,7 @@ is also provided.
 More details of this research was summarized in the journal paper:  
 **Guo, Xinyu, Kelli C. Dominick, Ali A. Minai, Hailong Li, Craig A. Erickson, and Long J. Lu."Diagnosing Autism 
 Spectrum Disorder from Brain Resting-State Functional Connectivity Patterns Using a Deep Neural Network 
-with a Novel Feature Selection Method." Frontiers in neuroscience 11 (2017): 460.**  
+with a Novel Feature Selection Method." Frontiers in neuroscience 11 (2017): 460.  
+https://www.frontiersin.org/articles/10.3389/fnins.2017.00460/full**  
 
 This work is the part of my Ph.D disertation. 
