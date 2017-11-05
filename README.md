@@ -19,8 +19,8 @@ expert knowledge. Meanwhile, the potential reason of obtaining 19 FCs which are 
 is also provided.
 
 More details of this research was summarized in the journal paper:
-**Guo, Xinyu, Kelli C. Dominick, Ali A. Minai, Hailong Li, Craig A. Erickson, and Long J. Lu.  
-"Diagnosing Autism Spectrum Disorder from Brain Resting-State Functional Connectivity Patterns Using a Deep Neural Network  
+**Guo, Xinyu, Kelli C. Dominick, Ali A. Minai, Hailong Li, Craig A. Erickson, and Long J. Lu."Diagnosing Autism 
+Spectrum Disorder from Brain Resting-State Functional Connectivity Patterns Using a Deep Neural Network 
 with a Novel Feature Selection Method." Frontiers in neuroscience 11 (2017): 460.**  
 
 This work is the part of my Ph.D disertation. 
